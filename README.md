@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Braihan 👋 🇨🇴</h1>
+<h1 align="center">¡Hola! Soy Braihan 👋</h1>
 
 <p align="center">
   Desarrollador junior en formación | Enfocado en desarrollo web, lógica y código limpio
@@ -35,9 +35,8 @@
 ---
 
 ### 📫 Contacto
-- 📍 Colombia 🇨🇴
-- 📧 Correo: braihanlopera@gmail.com
-
+- 📍 Colombia
+- 📧 Correo: braihanlopera@gmail.com - loperabraihan@gmail.com
 ---
 
 > *“La disciplina crea el camino, la lógica marca la dirección.”*
