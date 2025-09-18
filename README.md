@@ -19,7 +19,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braihan-Lopera&layout=compact&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Braihan-Lopera&theme=radical)](https://git.io/streak-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Braihan-Lopera&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
-![Quote](https://github-readme-quotes.vercel.app/api?theme=radical&quoteCategory=programming)  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
