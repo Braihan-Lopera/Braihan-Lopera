@@ -15,10 +15,11 @@
 
 ### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Braihan-Lopera&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braihan-Lopera&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Braihan-Lopera&theme=radical)](https://git.io/streak-stats)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Braihan-Lopera&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Braihan-Lopera&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Braihan-Lopera&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Braihan-Lopera&theme=radical)](https://git.io/streak-stats)  
 
 
 ---
