@@ -1,15 +1,17 @@
-<h1 align="center">¡Hola! Soy Braihan 👋 🇨🇴</h1>
+<h1 align="center">¡Hola! Soy Braihan 👋 | Colombiano co</h1>
 
 <p align="center">
-  Desarrollador junior en formación | Enfocado en desarrollo web, lógica y código limpio
+  Desarrollador junior en formación | Enfocado en desarrollo web, lógica y clean code
 </p>
 
 ---
 
-💻 Soy desarrollador construyendo bases sólidas en **Java**, **JavaScript** y **Python**.  
-📚 Actualmente aprendiendo **POO, Servlets, Maven** y fundamentos de frontend con **HTML/CSS**.  
+📈 Actualmente desarrollador Junior enfocado en contruir bases solidas en el desarrollo y abierto a adquirir más conocimiento.
+👨‍💻 Lenguajes que manejo actualmente son Python, JavaScript y Java con springboot.
+📚 Actualmente aprendiendo a definir correctamente el flujo de los procesos, estructuras de datos, automatizacion de procesos y seguridad de los mismos.  
 🎯 Disfruto resolver retos lógicos y entender cómo funciona cada tecnología paso a paso.  
-🚀 Creo en aprender desde lo básico y mejorar con práctica y constancia.
+🚀 Creo en ir aprendiendo desde lo basico y escencial e ir mejorando con práctica y constancia.
+🤝 Disfruto un buen trabajo en equipo.
 
 ---
 
