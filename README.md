@@ -7,7 +7,7 @@
 ---
 
 - 📈 Desarrollador Junior enfocado en contruir bases solidas en el desarrollo y abierto a adquirir más conocimiento.
-- 👨‍💻 Lenguajes que manejo actualmente son Python, JavaScript y Java con springboot.
+- 👨‍💻 Lenguajes que manejo actualmente son Python, JavaScript y Java.
 - 📚 Actualmente aprendiendo a definir correctamente el flujo de los procesos, estructuras de datos, automatizacion de procesos y seguridad de los mismos.  
 - 🎯 Disfruto resolver retos lógicos y entender cómo funciona cada tecnología paso a paso.  
 - 🚀 Creo en ir aprendiendo desde lo basico y escencial e ir mejorando con práctica y constancia.
