@@ -1,7 +1,8 @@
-<h1 align="center">¡Hola! Soy Braihan 👋 | Colombiano co</h1>
+<h1 align="center">¡Hola! Soy Braihan 👋</h1>
 
 <p align="center">
-  Desarrollador junior en formación | Enfocado en desarrollo web, lógica y clean code
+  Desarrollador junior en formación
+  📧 Correo: **braihanlopera@gmail.com** | **loperabraihan@gmail.com**
 </p>
 
 ---
@@ -52,7 +53,7 @@
 
 ### 📫 Contacto
 - 📍 Colombia 🇨🇴
-- 📧 Correo: **braihanlopera@gmail.com** | **loperabraihan@gmail.com**
+
 
 ---
 
